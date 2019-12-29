@@ -1,6 +1,6 @@
 # Reinforcement Learning Basics
 
-In this repository, [OpenAI Gym](gym.openai.com) has been used to implement basic RL algorithms.
+In this repository, [OpenAI Gym](https://gym.openai.com) has been used to implement basic RL algorithms.
 
 Implemented algorithms are: 
 
@@ -12,7 +12,7 @@ The variations of results with respect to different parameters is also studied.
 
 ## Author
 
-Abhineet Pandey - [abhineet99](github.com/abhineet99) - [homepage](abhineet99.github.io)
+Abhineet Pandey - [abhineet99](https://github.com/abhineet99) - [homepage](https://abhineet99.github.io)
 
 ## Acknowledgements
 
